@@ -2,6 +2,8 @@
 title: LabHacker do Bem
 default_author: João Paulo Novais
 description: "Blog do LabHacker do Bem uma iniciativa social que ensina tecnologia, com base na metodologia da Code Club, para crianças de 8 a 13 anos, aos sábados, na Casa São José em Brasília."  # used in site head
+baseurl: "/labhackerdobem" # the subpath of your site, e.g. /blog
+url: "https://n0va1s.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # register on google analytics and replace this token
 google_analytics:
