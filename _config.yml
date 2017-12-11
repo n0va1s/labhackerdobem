@@ -1,27 +1,27 @@
 # Site settings
-title: My Territory
-default_author: Shikher Verma
-description: "Online Territory of Shikher Verma"  # used in site head
+title: LabHacker do Bem
+default_author: João Paulo Novais
+description: "Blog do LabHacker do Bem uma iniciativa social que ensina tecnologia, com base na metodologia da Code Club, para crianças de 8 a 13 anos, aos sábados, na Casa São José em Brasília."  # used in site head
 
 # register on google analytics and replace this token
-google_analytics: UA-75681059-1
+google_analytics:
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-disqus_url: shikherverma.com
-disqus_id: shikherverma
+disqus_url:
+disqus_id:
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
-feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
+feedburner_url:
 
 # footer details. Deleting the value would remove it from footer.
-github_username:  shikherverma
-facebook_username:  shikherverma42
-email: root@shikherverma.com
-stackoverflow_username: 6764571/shikher-verma
-twitter_username : shikherverma42
-linkedin_username : shikherverma42
-keybase_username : shikherverma
-copyright_name: Shikher Verma
-rss : true
+github_username:  n0va1s
+facebook_username:  joaopaulonovais
+email: joaopaulonovais@gmail.com
+stackoverflow_username:
+twitter_username : n0va1s
+linkedin_username : joaopaulonovais
+keybase_username :
+copyright_name: n0va1s
+rss : false
 
 # used for portfolio on home page
 collections:
